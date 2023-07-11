@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Aadarsh Param Akhouri 👋
+- 🌱 I’m currently learning Full-Stack Development
 
+- 👯 I’m looking to collaborate on Front-End Dev Projects
+
+- 📫 Reach me at my gmail: param.akhouri@gmail.com
 <!--
 **LoneStanding/LoneStanding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
